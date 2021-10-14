@@ -1,0 +1,22 @@
+
+h1{
+	color: black; 
+	font-size: 40px;
+	font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.body_backgorund {
+	background-image: linear-gradient(green,greenyellow,lavender,pink,orange,yellow)
+}
+
+#myCanvas{
+	border-width: 10px;
+	background-color: white;
+	border-style: ridge;
+}
+
+#clearArea
+{
+	background-image: linear-gradient(yellow,green,orange);
+	height: 30px;
+	width: 30px;
+}
